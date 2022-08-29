@@ -1,4 +1,4 @@
-case number,unnamed: 0,year,type,country,area,location,activity,name,sex ,age,time,species ,href
+case_number,unnamed:_0,year,type,country,area,location,activity,name,sex_,age,time,species_,href
 2018.06.25,0,2018.0,Boating,USA,California,"Oceanside, San Diego County",Paddling,Julie Wolfe,F,57,18h00,White shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.06.25-Wolfe.pdf
 2018.06.18,1,2018.0,Unprovoked,USA,Georgia,"St. Simon Island, Glynn County",Standing,Adyson McNeely ,F,11,14h00  -15h00,,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.06.18-McNeely.pdf
 2018.06.09,2,2018.0,Invalid,USA,Hawaii,"Habush, Oahu",Surfing,John Denges,M,48,07h45,,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.06.09-Denges.pdf
